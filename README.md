@@ -16,4 +16,4 @@
 
 
 ## Tableau
-[Small map of toilets in City of Melbourne](https://public.tableau.com/profile/ariet.dzhumashev1262#!/vizhome/MelbournePublicToilets_0/Dashboard1?publish=yes) - 
+[Toilets in City of Melbourne](https://public.tableau.com/profile/ariet.dzhumashev1262#!/vizhome/MelbournePublicToilets_0/Dashboard1?publish=yes) - Dashboard visualising the toilet locations and types in the city of Melbourne. (Small)

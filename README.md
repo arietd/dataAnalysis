@@ -5,10 +5,11 @@
 
 #### Completed
 [Cancer Stages Notebook](https://github.com/arietd/dataAnalysis/blob/master/cancer_Stage_Classification.ipynb)- Classification of Cancer by severity. (SVM, QDA, Multiple preceptron, Tree methods)
+[Queensland Monthly Marriages](https://github.com/arietd/dataAnalysis/blob/master/Queensland_marriages_timeseries.ipynb) - Time Series forecasting using ARIMA and ETS models
 
 #### In Progress
 [House Prices Notebook](https://github.com/arietd/dataAnalysis/blob/master/Melbourne_housing.ipynb) - Exploratory Analysis and use of GGMAP to visualise house prices
-[Queensland Monthly Marriages](https://github.com/arietd/dataAnalysis/blob/master/Queensland_marriages_timeseries.ipynb) - Time Series forecasting using ARIMA and ETS models
+
 
 ## Python
 #### In Progress

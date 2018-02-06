@@ -12,6 +12,10 @@
 
 
 ## Python
+
+#### Completed
+[Scraping + Twilio](https://github.com/arietd/dataAnalysis/blob/master/Vball_sms_msg_scraper.ipynb) - SMS text notification script for Social Volleyball Competition. Data is scraped using Beautiful Soup.
+
 #### In Progress
 [European Football Events](https://github.com/arietd/dataAnalysis/blob/master/footballing_events.ipynb) - Visualisations and some data wrangling 
 

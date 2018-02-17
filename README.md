@@ -1,7 +1,7 @@
 # Ariet Dzhumashev
-## Data Analysis Notebooks
+#### Data Analysis Notebooks
 
-Data Science student at Monash University. Here Are some examples of my work. I hope you take the time to read through some of them. I am looking for a position in a position related to Data Science. 
+I am a Data Science student at Monash University, residing in Melbourne. Here are some examples of my work. Visualisations, scraping and forecasting. I am looking for a position in a position related to Data Science. 
 
 email: ariet.dzhumashev@gmail.com
 
